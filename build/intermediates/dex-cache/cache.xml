@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Neng Lisda Yuni S\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.0\support-annotations-24.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="C:\Users\Neng Lisda Yuni S\AndroidStudioProjects\TwoActivities\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.0_9453b4d9f2a469f486a6f8e1078b8b3baabd1e14.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neng Lisda Yuni S\AndroidStudioProjects\TwoActivities\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
+        <dex dex="C:\Users\Neng Lisda Yuni S\AndroidStudioProjects\TwoActivities\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.0_0809b94bcb7973c4766fa8a13384b020144f2a69.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neng Lisda Yuni S\AndroidStudioProjects\TwoActivities\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
+        <dex dex="C:\Users\Neng Lisda Yuni S\AndroidStudioProjects\TwoActivities\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.0_bd38d00f9e3febf62ebfdcd7a4fc6da19c6b4e54.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neng Lisda Yuni S\AndroidStudioProjects\TwoActivities\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\libs\internal_impl-24.1.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="C:\Users\Neng Lisda Yuni S\AndroidStudioProjects\TwoActivities\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.0_b297b2033648b78fc70909b9afb55836477a33a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neng Lisda Yuni S\AndroidStudioProjects\TwoActivities\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="C:\Users\Neng Lisda Yuni S\AndroidStudioProjects\TwoActivities\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.0_f12579e4795bc3ae1d9cdba42278fb38df30531c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Neng Lisda Yuni S\AndroidStudioProjects\TwoActivities\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="9340c4f95a4e3916c9ad70296e24576743743712">
+        <dex dex="C:\Users\Neng Lisda Yuni S\AndroidStudioProjects\TwoActivities\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.0_5f6645a0d837f72bde5b460db13c4733eae2df89.jar" />
+    </item>
+
+</items>
